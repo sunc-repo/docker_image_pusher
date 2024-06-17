@@ -1,2 +1,2 @@
 # elasticsearch:7.6.2
-rocketmqinc/rocketmq:4.9.5
+apache/rocketmq:4.9.5
