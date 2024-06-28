@@ -4,4 +4,5 @@
 #rabbitmq:3.12-management
 #rabbitmq
 #redis:7.2.4
-star7th/showdoc
+#star7th/showdoc
+minio/minio
