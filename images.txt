@@ -5,4 +5,5 @@
 #rabbitmq
 #redis:7.2.4
 #star7th/showdoc
-minio/minio
+#minio/minio
+nginx
