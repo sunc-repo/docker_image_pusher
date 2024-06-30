@@ -1,6 +1,6 @@
-# elasticsearch:7.6.2
+elasticsearch:7.17.16
 #elasticsearch:8.14.0
-elasticsearch:8.12.2
+#elasticsearch:8.12.2
 #apache/rocketmq:4.9.5
 #alpine
 #rabbitmq:3.12-management
