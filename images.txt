@@ -1,9 +1,9 @@
-elasticsearch:7.17.16
+#elasticsearch:7.17.16
 #elasticsearch:8.14.0
 #elasticsearch:8.12.2
 #apache/rocketmq:4.9.5
 #alpine
-#rabbitmq:3.12-management
+rabbitmq:management
 #rabbitmq
 #redis:7.2.4
 #star7th/showdoc
