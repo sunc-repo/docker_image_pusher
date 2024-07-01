@@ -9,4 +9,5 @@
 #star7th/showdoc
 #minio/minio
 #nginx
-openjdk:8
+#openjdk:8
+portainer/portainer-ce
