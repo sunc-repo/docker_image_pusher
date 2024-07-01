@@ -3,9 +3,10 @@
 #elasticsearch:8.12.2
 #apache/rocketmq:4.9.5
 #alpine
-rabbitmq:management
+#rabbitmq:management
 #rabbitmq
 #redis:7.2.4
 #star7th/showdoc
 #minio/minio
 #nginx
+java:8
