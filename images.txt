@@ -10,4 +10,4 @@
 #minio/minio
 #nginx
 #openjdk:8
-portainer/portainer-ce
+portainer/portainer-ce:latest
