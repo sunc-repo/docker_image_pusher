@@ -9,4 +9,4 @@
 #star7th/showdoc
 #minio/minio
 #nginx
-java:8
+openjdk:8
