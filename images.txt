@@ -13,4 +13,5 @@
 #portainer/portainer-ce:latest
 #mysql:8.0.29
 #gitlab/gitlab-ce
-mongo:7.0.9
+#mongo:7.0.9
+postgres：14.11
