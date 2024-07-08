@@ -11,4 +11,5 @@
 #nginx
 #openjdk:8
 #portainer/portainer-ce:latest
-mysql:8.0.29
+#mysql:8.0.29
+gitlab/gitlab-ce
