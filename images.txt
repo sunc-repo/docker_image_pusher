@@ -14,4 +14,4 @@
 #mysql:8.0.29
 #gitlab/gitlab-ce
 #mongo:7.0.9
-postgres：14.11
+postgres：14
