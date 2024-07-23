@@ -12,7 +12,7 @@
 #openjdk:8
 #portainer/portainer-ce:latest
 #mysql:8.0.29
-#gitlab/gitlab-ce
+gitlab/gitlab-ce
 #mongo:7.0.9
 #postgres：14
-gitlab/gitlab-runner
+#gitlab/gitlab-runner
