@@ -15,4 +15,4 @@
 #gitlab/gitlab-ce
 #mongo:7.0.9
 #postgres：14
-gitlab/gitlab-runner：17.1.0
+gitlab/gitlab-runner：17.1
