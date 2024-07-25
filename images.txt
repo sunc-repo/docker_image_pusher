@@ -2,7 +2,7 @@
 #elasticsearch:8.14.0
 #elasticsearch:8.12.2
 #apache/rocketmq:4.9.5
-alpine
+#alpine
 #rabbitmq:management
 #rabbitmq
 #redis:7.2.4
@@ -16,3 +16,4 @@ alpine
 #mongo:7.0.9
 #postgres：14
 #gitlab/gitlab-runner
+docker
