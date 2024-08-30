@@ -1,6 +1,6 @@
 #elasticsearch:7.17.16
 #elasticsearch:8.14.0
-#elasticsearch:8.12.2
+elasticsearch:7.10.1
 #apache/rocketmq:4.9.5
 #alpine
 #rabbitmq:management
@@ -11,7 +11,7 @@
 #nginx
 #openjdk:8
 #portainer/portainer-ce:latest
-mysql:8.4.0
+#mysql:8.4.0
 #gitlab/gitlab-ce
 #mongo:7.0.9
 #postgres：14
