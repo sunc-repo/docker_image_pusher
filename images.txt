@@ -1,8 +1,9 @@
 #elasticsearch:7.17.16
 #elasticsearch:8.14.0
 #elasticsearch:7.10.1
-kibana:7.17.16
+#kibana:7.17.16
 #logstash:7.17.16
+mobz/elasticsearch-head:5
 #apache/rocketmq:4.9.5
 #alpine
 #rabbitmq:management
