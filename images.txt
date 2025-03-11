@@ -20,4 +20,6 @@
 #postgres：14
 #gitlab/gitlab-runner
 #docker
-node:22-alpine
+#node:22-alpine
+wurstmeister/zookeeper
+#wurstmeister/kafka
