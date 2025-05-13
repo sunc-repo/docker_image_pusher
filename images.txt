@@ -22,4 +22,5 @@
 #docker
 #node:22-alpine
 #wurstmeister/zookeeper
-wurstmeister/kafka
+#wurstmeister/kafka
+enmotech/opengauss:latest
