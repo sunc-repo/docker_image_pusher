@@ -24,3 +24,4 @@ nginx:1.29.0
 #wurstmeister/zookeeper
 #wurstmeister/kafka
 #enmotech/opengauss:latest
+mongo:8.0.0
